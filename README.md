@@ -1,4 +1,4 @@
-# Shopping List App
+# The Shopping List App
 
 This app helps users easily manage their daily shopping needs. Users can add new items to their shopping list, edit existing items, and delete unnecessary items. This app is ideal for anyone who wants to keep track of their daily shopping needs. With its easy-to-use interface and simple functionality, it can be used comfortably by everyone.
 
